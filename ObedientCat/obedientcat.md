@@ -5,4 +5,8 @@ Obedient Cat is the first picoGYM practice challenge,therfore one should be able
 
 To view the flag, all you must do is read the text with a file viewer. A simple way to do this within a terminal is with the cat command functionality.
 
+``` cat flag ```
+
+``` picoCTF{s4n1ty_v3r1f13d_1a94e0f9} ```
+
 
