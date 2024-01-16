@@ -9,4 +9,5 @@ To view the flag, all you must do is read the text with a file viewer. A simple 
 
 ``` picoCTF{s4n1ty_v3r1f13d_1a94e0f9} ```
 
+While this first challenge was very simple, it serves as a good starting point for learning cybersecurity CTF challenges.
 
